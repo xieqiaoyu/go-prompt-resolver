@@ -1,4 +1,4 @@
-package main
+package resolver
 
 //Cmd a cmd action
 type Cmd func()

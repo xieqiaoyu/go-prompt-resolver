@@ -1,4 +1,4 @@
-package main
+package resolver
 
 //ParamCmd cmd accept params
 type ParamCmd func(...string)

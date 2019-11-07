@@ -1,4 +1,4 @@
-package main
+package resolver
 
 import (
 	prompt "github.com/c-bata/go-prompt"
